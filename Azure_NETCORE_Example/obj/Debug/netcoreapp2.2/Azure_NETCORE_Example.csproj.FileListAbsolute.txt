@@ -1,0 +1,14 @@
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\bin\Debug\netcoreapp2.2\Azure_NETCORE_Example.deps.json
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\bin\Debug\netcoreapp2.2\Azure_NETCORE_Example.runtimeconfig.json
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\bin\Debug\netcoreapp2.2\Azure_NETCORE_Example.runtimeconfig.dev.json
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\bin\Debug\netcoreapp2.2\Azure_NETCORE_Example.dll
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\bin\Debug\netcoreapp2.2\Azure_NETCORE_Example.pdb
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.csprojAssemblyReference.cache
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.csproj.CoreCompileInputs.cache
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.RazorAssemblyInfo.cache
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.RazorAssemblyInfo.cs
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.AssemblyInfoInputs.cache
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.AssemblyInfo.cs
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.RazorTargetAssemblyInfo.cache
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.dll
+C:\Users\joao.figueira\source\repos\Azure_NETCORE_Example\Azure_NETCORE_Example\obj\Debug\netcoreapp2.2\Azure_NETCORE_Example.pdb
